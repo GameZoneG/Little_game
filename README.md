@@ -1,6 +1,4 @@
-  <!DOCTYPE html>
 <html>
-    <title>Agarrense</title>
     <body>
         <head>
             <h1 style="color: blue;">Welcome Here</h1>
