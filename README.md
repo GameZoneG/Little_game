@@ -1,5 +1,4 @@
 <html>
-    <title>Agarrense</title>
     <body>
         <head>
             <style>body {
