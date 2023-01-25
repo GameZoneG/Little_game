@@ -1,8 +1,11 @@
 <html>
+    <title>Agarrense</title>
     <body>
         <head>
-                   <style>body {
+            <style>body {
                 background-color: black;
+            }
+          </style>
             <h1 style="color: blue;">Welcome Here</h1>
             <br>
             <p style="color: rgb(13, 9, 238);"> 
