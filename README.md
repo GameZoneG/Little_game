@@ -1,6 +1,8 @@
 <html>
     <body>
         <head>
+                   <style>body {
+                background-color: black;
             <h1 style="color: blue;">Welcome Here</h1>
             <br>
             <p style="color: rgb(13, 9, 238);"> 
