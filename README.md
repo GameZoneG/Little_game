@@ -47,16 +47,12 @@
                 </strong>              
             </button>                                    
             </a>
-            
-<br>
-
-<a href="page2.html">   
+            <a href="page2.html">   
                 <button style="color: rgb(28, 14, 153);"> 
                     <strong>
                         No
                     </strong>
                 </button>
             </a>
-
   </head>
     </body>
