@@ -1,8 +1,7 @@
 <html>
     <body>
         <head>
-
-            <style>body {
+         <style>body {
                 background-color: black;
             }
           </style>
