@@ -1,15 +1,15 @@
-<head>
 
-            <style>body {
+   <body
+      <head>
+          <style>body {
                 background-color: black;
             }
-          </style>
-
-            <h1 style="color: rgb(5, 91, 124);">
+          </style> 
+             <h1 style="color: rgb(5, 91, 124);">
                 Welcome Here
             </h1>
 
-            <p style="color: aqua;">
+<p style="color: aqua;">
                 <em>
                     <strong>
                         Just to mention, this is my beginning as a web developer
@@ -17,30 +17,30 @@
                 </em>
             </p>
 
-            <p style="color: aqua;">
+<p style="color: aqua;">
                 <em>
                 and I'm just applying what I'm learning about all of this <br>
                 jus putting what I know.
                 </em>
             </p>
 
-            <p style="color: rgb(167, 12, 12);">                
+<p style="color: rgb(167, 12, 12);">                
                 <strong>
                     This is not a troll page
                </strong>
             </p>
 
-            <br>
+<br>
 
-            <h4 style="color: brown;">Just trust me  
+<h4 style="color: brown;">Just trust me  
                 <em>nothing is going to happen</em>
             </h4>
 
-                <img width="500" height="300" src="/images.png">
+<img width="500" height="300" src="/images.png">
 
-            <p style="color: brown;">Want to know what's gonna happen?</p>
+<p style="color: brown;">Want to know what's gonna happen?</p>
 
-            <a href="page1.html">               
+<a href="page1.html">               
             <button style="color: rgb(6, 9, 146);">
                 <strong>
                     Yes
@@ -48,9 +48,9 @@
             </button>                                    
             </a>
             
-            <br>
+<br>
 
-            <a href="page2.html">   
+<a href="page2.html">   
                 <button style="color: rgb(28, 14, 153);"> 
                     <strong>
                         No
@@ -58,6 +58,5 @@
                 </button>
             </a>
 
-        </head>
+  </head>
     </body>
-</html>
